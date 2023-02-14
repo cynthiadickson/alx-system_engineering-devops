@@ -1,1 +1,1 @@
-shell variables expansions
+A script that creates an alias
